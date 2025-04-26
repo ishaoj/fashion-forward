@@ -21,14 +21,14 @@ Data Collection: BeautifulSoup, Scrapy, API integrations
 
 AI Models: CLIP (OpenAI), BERT (Google), Stable Diffusion
 
-Machine Learning: Scikit-Learn, TensorFlow, PyTorch
+Machine Learning: Scikit-Learn, Matplotlin
 
-Visualization: Streamlit, Dash
+Visualization: Streamlit
 
-Cloud Hosting: AWS, Azure
+
 
 How It Works
-Data scraping module continuously gathers fashion content.
+Data scraping gathers fashion content.
 
 CLIP analyzes both text and images to detect trends.
 
